@@ -1,2 +1,2 @@
 # Exercise-1
-Create Repository for learn how to setting gitgui and github
+Create New Repository for learn how to setting gitgui and github before make a script
